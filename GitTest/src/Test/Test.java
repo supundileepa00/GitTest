@@ -16,9 +16,8 @@ public class Test {
 	}
 	
 	
-	public void displayDetails() {
+	public void dusplayPerson() {
 		
-
 	}
 	
 	
