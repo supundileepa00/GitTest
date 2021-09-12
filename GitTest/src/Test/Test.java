@@ -10,6 +10,13 @@ public class Test {
 		super();
 		this.age = age;
 		this.name = name;
+		
+		
+	}
+	
+	
+	public void displayDetails() {
+		
 	}
 	
 	
